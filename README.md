@@ -1,7 +1,8 @@
 # BigDataSnowflake
 Инструкция для запуска:
-1. Запустить ```docker compose up```
-2. Создать соединение в dbeaver с параметрами user: "postgres", password: "123".
+1. Запустить ```git clone https://github.com/Ecodrin/BDSnowflake.git```
+2. Запустить ```docker compose up```
+3. Создать соединение в dbeaver с параметрами user: "postgres", password: "123", база данных: "postgres", порт: "5432".
 
 Файловая структура лабораторной работы:
 ```
