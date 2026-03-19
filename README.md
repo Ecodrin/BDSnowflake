@@ -27,3 +27,5 @@ C:.
         MOCK_DATA (9).csv
         MOCK_DATA.csv
 ```
+
+![](./snowflake.png)
